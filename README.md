@@ -37,7 +37,10 @@ Using **SQL, Python, Excel, and Power BI**, I performed **data cleaning, transfo
 ---
 
 ## 📈 Dashboard Preview  
-*(Add a screenshot of your Power BI dashboard here)*  
+<img width="1913" height="1013" alt="image" src="https://github.com/user-attachments/assets/b6a742b5-52af-455b-a5bf-098a9c6f99e6" />
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/2f9bc0f4-0a9c-4469-8891-6183edccb06d" />
+
+  
 
 ---
 
@@ -48,11 +51,20 @@ Using **SQL, Python, Excel, and Power BI**, I performed **data cleaning, transfo
 
 ---
 
-## 🚀 How to Run  
-```bash
-# 1️⃣ Clone this repository
-git clone https://github.com/yourusername/Walmart-Sales-Analysis.git
+## 📌 Project Workflow
+> Flow: Raw Data → Cleaning & Transformation → Storage & Querying → Visualization → Insights & Forecasting
 
-# 2️⃣ Open dataset in Excel / Import into SQL or Python
+![Project Workflow](workflow.png)
+*Save a clear PNG named `workflow.png` in the repo root. Recommended size: 1200×600px.*
 
-# 3️⃣ Open Walmart_Sales_Analysis.pbix in Power BI
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard.gif)
+*Record a short loop (3–8s) of your Power BI interaction, convert to GIF, name it `dashboard.gif`. Keep under ~5MB for GitHub preview.*
+
+## 🛠️ Tech Stack
+- Power BI  
+- SQL  
+- Python (Pandas, NumPy)  
+- Excel
+
+## 📂 Files in this Repo
