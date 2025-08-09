@@ -54,12 +54,6 @@ Using **SQL, Python, Excel, and Power BI**, I performed **data cleaning, transfo
 ## 📌 Project Workflow
 > Flow: Raw Data → Cleaning & Transformation → Storage & Querying → Visualization → Insights & Forecasting
 
-![Project Workflow](workflow.png)
-*Save a clear PNG named `workflow.png` in the repo root. Recommended size: 1200×600px.*
-
-## 📊 Dashboard Preview
-![Dashboard Preview](dashboard.gif)
-*Record a short loop (3–8s) of your Power BI interaction, convert to GIF, name it `dashboard.gif`. Keep under ~5MB for GitHub preview.*
 
 ## 🛠️ Tech Stack
 - Power BI  
